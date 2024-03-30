@@ -48,7 +48,7 @@
 
 <script>
 export default {
-  // The `data()` method in a Vue.js component is used to define the initial data properties of the component. In this specific code snippet:
+  // The `data()` method in a Vue.js component is used to define the initial data properties of the component.
   data() {
     return {
       companies: [],
